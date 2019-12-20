@@ -1,0 +1,5 @@
+classes= 37
+train  = data/win_train.txt
+valid  = data/win_test.txt
+names = data/win.names
+backup = win_backup/
