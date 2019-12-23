@@ -53,7 +53,6 @@ data/win_obj/349.jpg
 data/win_obj/2.jpg
 data/win_obj/278.jpg
 data/win_obj/160.jpg
-data/win_obj/103.jpg
 data/win_obj/319.jpg
 data/win_obj/330.jpg
 data/win_obj/91.jpg
@@ -339,7 +338,6 @@ data/win_obj/154.jpg
 data/win_obj/75.jpg
 data/win_obj/261.jpg
 data/win_obj/436.jpg
-data/win_obj/65.jpg
 data/win_obj/356.jpg
 data/win_obj/48.jpg
 data/win_obj/430.jpg
@@ -388,7 +386,6 @@ data/win_obj/195.jpg
 data/win_obj/318.jpg
 data/win_obj/56.jpg
 data/win_obj/519.jpg
-data/win_obj/12.jpg
 data/win_obj/307.jpg
 data/win_obj/342.jpg
 data/win_obj/9391.JPG
@@ -601,7 +598,6 @@ data/win_obj/10412.JPG
 data/win_obj/10205.JPG
 data/win_obj/10431.JPG
 data/win_obj/9409.JPG
-data/win_obj/9701.JPG
 data/win_obj/10008.JPG
 data/win_obj/9723.JPG
 data/win_obj/10081.JPG
