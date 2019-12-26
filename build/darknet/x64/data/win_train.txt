@@ -427,7 +427,6 @@ data/win_obj/223.jpg
 data/win_obj/248.jpg
 data/win_obj/422.jpg
 data/win_obj/170.jpg
-data/win_obj/16.jpg
 data/win_obj/493.jpg
 data/win_obj/171.jpg
 data/win_obj/235.jpg
@@ -490,7 +489,6 @@ data/win_obj/10490.JPG
 data/win_obj/10209.JPG
 data/win_obj/10280.JPG
 data/win_obj/10047.JPG
-data/win_obj/10400.JPG
 data/win_obj/10430.JPG
 data/win_obj/9410.JPG
 data/win_obj/10270.JPG
@@ -914,4 +912,4 @@ data/win_obj/9729.JPG
 data/win_obj/9827.JPG
 data/win_obj/10389.JPG
 data/win_obj/10023.JPG
-data/win_obj/10401.JPG
+
